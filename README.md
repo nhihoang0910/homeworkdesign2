@@ -23,4 +23,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Questions for clients (Q3)
 - For simplicity, this system only takes into record of customers that are already in the Starbucks Customer System. Therefore, the purchase method takes in their ID
 - I'm assuming new customers will be added to the customer system in order to use purchase method
-- Do you want the coffee type to change depends on how often this customer orders it? I haven't taken into account that aspect
+- Do you want the coffee type to change depends on how often this customer orders it? I haven't taken into account that aspect# homeworkdesign2
